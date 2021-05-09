@@ -1,0 +1,10 @@
+kola
+rum	40
+narancsle
+vodka	40
+whiskey	40
+ananaszle
+prosecco	10.5
+aperol	11
+szoda
+limele
